@@ -1,0 +1,1 @@
+Para o programa cliente e servidor funcionarem, coloque a pasta arquivos na unidade C: do computador
